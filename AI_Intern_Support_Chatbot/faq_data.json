@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How do I submit internship tasks?",
+    "answer": "You can submit tasks through the intern management portal."
+  },
+  {
+    "question": "How can I apply for leave?",
+    "answer": "You can apply for leave using the HR dashboard."
+  },
+  {
+    "question": "What is internship duration?",
+    "answer": "The internship duration is 3 months."
+  },
+  {
+    "question": "Who is my mentor?",
+    "answer": "Your mentor details are available in your profile dashboard."
+  },
+  {
+    "question": "What technologies are required?",
+    "answer": "Python, Machine Learning, and GitHub knowledge are recommended."
+  }
+]
